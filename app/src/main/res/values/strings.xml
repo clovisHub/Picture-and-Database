@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">w3d4-ex01</string>
+    <string name="lbl_save_btn">Save</string>
+    <string name="lbl_get_data">Get Data</string>
+    <string name="look_up_info">Look Up Info</string>
+    <string name="enter_id">Enter id</string>
 </resources>
